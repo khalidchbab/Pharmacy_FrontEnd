@@ -1,11 +1,10 @@
-# fluttergooglemapsapp
+# Pharmacie De Garde
 
-Flutter Tutorial - Flutter Google Maps
-Flutter Tutorial - Flutter Google Maps Video series can be watched here https://www.youtube.com/watch?v=lNqEfnnmoHk
+Generated For CHBAB KHALID GITHUB
 
 ## Getting Started
 
-we will see how to integrate google maps in your flutter application using google_maps_flutter plugin .
+we will see how to integrate google maps in Our flutter application using google_maps_flutter plugin .
 Note: Please add the API KEY in the "AndroidManifest.xml"
 
 For more details about the google_maps_flutter plugin check here https://pub.dartlang.org/packages/google_maps_flutter#-readme-tab-  
@@ -20,24 +19,16 @@ For more details about Align widget watch my video series here - https://www.you
 For more details about FittedBox widget watch my video series here - https://www.youtube.com/watch?v=ggJ-Wy9P7VM
 <div style="text-align: center">
     <table>
-        <tr>
+        <tr>            
             <td style="text-align: center">
-                    <img src="https://github.com/whatsupcoders/Flutter-GoogleMaps/blob/master/assets/Screenshot_1560716142.png" width="200"/>
+                    <img src="https://i.ibb.co/GH7KNDg/Capture.jpg" width="200"/>
             </td>            
             <td style="text-align: center">              
-                     <img src="https://github.com/whatsupcoders/Flutter-GoogleMaps/blob/master/assets/Screenshot_1560716160.png" width="200"/>
+                     <img src="https://i.ibb.co/wJ5n9Y6/lol.jpg" width="200"/>
             </td>
             <td style="text-align: center">
-                    <img src="https://github.com/whatsupcoders/Flutter-GoogleMaps/blob/master/assets/googlemaps.gif" width="200"/>
+                    <img src="https://i.ibb.co/hRYt6Jt/Screenshot-1579306605.png" width="200"/>
           </td>
         </tr>
   </table>
   </div>
-  
-For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
-If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
-
-FOLLOW ME HERE:
-
-Facebook: https://www.facebook.com/whatsupcoders <br />
-Twitter: https://www.twitter.com/whatsupcoders
